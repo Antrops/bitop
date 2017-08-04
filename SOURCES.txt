@@ -1,0 +1,6 @@
+setup.cfg
+setup.py
+bitop.egg-info/PKG-INFO
+bitop.egg-info/SOURCES.txt
+bitop.egg-info/dependency_links.txt
+bitop.egg-info/top_level.txt
